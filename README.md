@@ -110,7 +110,7 @@ haven't defined.  Here's how to tell it what's allowed:
 You can disallow all variables, if for some reason you want to, by
 changing `parser.allow(x)` to `parser.allow(null)`.
 
-
+ 
 Contact
 =======
 
